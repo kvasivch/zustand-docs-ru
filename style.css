@@ -1,0 +1,11 @@
+.main{
+    height:95vh;
+    
+    display:flex;
+    align-items:flex-end;
+}
+.bottom{
+    display:flex;
+    width:100vh;
+    justify-content:space-between;
+}
