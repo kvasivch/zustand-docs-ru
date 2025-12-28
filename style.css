@@ -1,13 +1,16 @@
 .main{
     height:95vh;
-    
+    flex-direction:column;
     display:flex;
-    align-items:flex-end;
+
 }
-.bottom{
+.top{
+    margin-bottom:auto;
+}
+.bottom, .top{
     display:flex;
     width:100%;
-    
+    gap:10px;
 }
 
 .first-item{
